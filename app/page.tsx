@@ -44,6 +44,12 @@ export default function ProfileCard() {
                 height={20}
               />
               <Image
+                src="https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png"
+                alt="Boost Badge"
+                width={20}
+                height={20}
+              />
+              <Image
                 src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png"
                 alt="Developer Badge"
                 width={20}
