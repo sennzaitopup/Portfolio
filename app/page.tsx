@@ -38,17 +38,23 @@ export default function ProfileCard() {
                 height={20}
               />
               <Image
+                src="https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png"
+                alt="Nitro Badge"
+                width={20}
+                height={20}
+              />
+              <Image
                 src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png"
                 alt="Developer Badge"
                 width={20}
                 height={20}
               />
-              {/* <Image
+              <Image
                 src="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png"
                 alt="HashTag Badge"
                 width={20}
                 height={20}
-              /> */}
+              />
               <Image
                 src="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png"
                 alt="Quest Badge"
@@ -65,7 +71,7 @@ export default function ProfileCard() {
             <p className="text-sm font-light">
               Hello ! I'm not Sennzai
               <br />
-              But I ❤️ Sennzai
+              Interested to be a Front End Developer
               <br />
               Experience with C/C++
               <br />
