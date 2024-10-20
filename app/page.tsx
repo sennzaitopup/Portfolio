@@ -29,7 +29,7 @@ export default function ProfileCard() {
             <h2 className="text-xl font-bold">Sennzai</h2>
           </div>
           <div className="flex items-center justify-between">
-            <p className="text-gray-400 text-sm">sennzai • they/them</p>
+            <p className="text-gray-400 text-sm">sennzai • she/her</p>
             <div className="flex space-x-1">
               <Image
                 src="https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png"
